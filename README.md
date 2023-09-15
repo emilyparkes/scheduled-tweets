@@ -1,11 +1,14 @@
-# README
+# scheduled tweets
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby Version
+  `ruby-3.2.2`  
 
-Things you may want to cover:
+* Get Started
+  ```
+  ruby s
+  ```
 
-* Ruby version
+<!-- Things you may want to cover:
 
 * System dependencies
 
@@ -19,7 +22,4 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
-# scheduled-tweets
+* Deployment instructions -->
